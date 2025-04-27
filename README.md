@@ -1,23 +1,3 @@
-## ✨ Weitere wichtige Themen für dein README:
-
-- **Full Page Screenshots**: ganze Seite aufnehmen, nicht nur den sichtbaren Bereich
-- **Element Screenshots**: gezielt einzelne Komponenten abfotografieren
-- **Soft Assertions**: mehrere Fehler gleichzeitig sammeln (nicht bei erstem Fehler abbrechen)
-- **Videoaufnahmen**: Testdurchläufe automatisch aufzeichnen (sehr praktisch für Debugging)
-- **Retries bei Fehlern**: Tests automatisch neu versuchen (für z.B. flaky Tests)
-- **Parallelisierung und Sharding**: schnellere Tests in CI/CD
-- **Flakes aufdecken**: Playwright hat Mechanismen, um instabile Tests aufzuspüren
-- **Visuelle Regressionsbeispiele (inkl. Bild-Diff)**
-
----
-
-Ich aktualisiere dein README jetzt mit **diesen Extras**, inklusive **Beispiel für ein Screenshot-Diff**, damit es perfekt ist für die Präsentation im Büro. 📄
-
-Hier die erweiterte Version:
-
----
-
-```markdown
 # 📸 Playwright Tests für UI & Funktionalität
 
 Dieses Projekt verwendet **[Playwright](https://playwright.dev/)**, um Webanwendungen automatisch und umfassend zu testen:
