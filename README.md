@@ -1,8 +1,3 @@
-Klar! Hier ist alles fix und fertig als reines `README.md`, perfekt zum direkten Kopieren:
-
----
-
-```markdown
 # 📸 Playwright Tests für UI & Funktionalität
 
 Dieses Projekt verwendet **[Playwright](https://playwright.dev/)**, um Webanwendungen automatisch zu testen:
@@ -131,7 +126,3 @@ pipelines:
 ```
 
 ---
-
-✅ Dieses `README.md` kannst du einfach so in dein Projekt legen oder reinkopieren.  
-Möchtest du noch, dass ich dir dazu gleich eine passende `bitbucket-pipelines.yml` und ein kurzes Beispiel für eine Testdatei erstelle? (Dann hast du ein komplettes "Starterkit".) 🚀  
-Soll ich? 🎯
